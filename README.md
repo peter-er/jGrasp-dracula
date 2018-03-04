@@ -15,6 +15,7 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 [![Peter Reinhardt]((https://avatars1.githubusercontent.com/u/3751731?s=400&amp)](https://github.com/peter-er) |
 --- |
 [Peter Reinhardt](https://github.com/peter-er) |
+
 ## License
 
 [MIT License](./LICENSE)
