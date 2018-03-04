@@ -12,7 +12,7 @@ Go to C:\Users\YourUsername\.grasp_settings\colors and place the dracula.colors.
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
 
-<img src="https://avatars1.githubusercontent.com/u/3751731?s=400&amp" width="100" height="100"/>(https://github.com/peter-er) |
+<img src="https://avatars1.githubusercontent.com/u/3751731?s=400&amp" width="100" height="100"/> (https://github.com/peter-er) |
 --- |
 [Peter Reinhardt](https://github.com/peter-er) |
 
