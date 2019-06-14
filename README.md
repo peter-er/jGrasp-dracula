@@ -5,8 +5,11 @@
 ![Screenshot](https://i.imgur.com/oqUUp9t.png)
 
 ## Install
-
-Go to C:\Users\YourUsername\.grasp_settings\colors and place the dracula.colors.xml file inside. Run jGrasp and go to Settings -> Colors. From there select import and choose the dracula.colors.xml file. Select "User: Dracula" from the drop down menu and click "Ok".
+1. Download using the GitHub .zip download and extract the files.
+2. Go to C:\Users\YourUsername\.grasp_settings\colors and place the dracula.colors.xml file inside. 
+3. Run jGrasp and go to Settings -> Colors. 
+4. From there select import at the bottom and select the dracula.colors.xml file. 
+5. Select "User: Dracula" from the Color Schemes drop down menu and click "Apply".
 
 ## Team
 
